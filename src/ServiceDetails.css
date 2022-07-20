@@ -1,0 +1,14 @@
+.ServiceDetails {
+  margin-top: 100px;
+}
+
+.ServiceDetails button.go-back {
+  color: white;
+  background-color: #222;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 4px;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}

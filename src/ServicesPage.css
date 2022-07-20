@@ -1,0 +1,18 @@
+.ServicesPage .services-list {
+  text-align: start;
+  margin: auto;
+  width: 300px;
+  margin-top: 100px;
+}
+
+.ServicesPage .services-list>div {
+  padding: 4px;
+  border-radius: 4px;
+  margin-top: 2px;
+  transition: .15s ease-out;
+  cursor: pointer;
+}
+
+.ServicesPage .services-list>div:hover {
+  background-color: #222;
+}
